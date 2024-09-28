@@ -10,7 +10,7 @@
   
 ---  
 ### Extra courses:
-- [IOS Development Summer School of Yandex:](https://github.com/user-attachments/files/17173927/SMD.Vika.Smet.pdf)  June 2021 - August 2024
+- [IOS Development Summer School of Yandex:](https://github.com/user-attachments/files/17173927/SMD.Vika.Smet.pdf) June - August 2024
   
 ### Contacts:
 [![Telegram](https://img.shields.io/badge/telegram-1DA1F2?logo=telegram&style=for-the-badge&logoColor=fff)](https://t.me/vikasmet)
