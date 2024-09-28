@@ -3,17 +3,13 @@
 
 #### My name is Vika Smet 🤝 
 
-#### I am Software Engineer and IOS Developer from Russia 🇷🇺
+#### I am IOS Developer from Russia 🇷🇺
 
 ---
-
 ### Education:
 - Bachelor degree in Information Management at ["RUSSIAN TECHNOLOGICAL UNIVERSITY"](https://english.mirea.ru) 🇷🇺
   
 ---
-
----
-
 ### Extra courses:
 - [IOS Development Summer School of Yandex:](https://github.com/user-attachments/files/17173927/SMD.Vika.Smet.pdf)  June 2021 - August 2024
   
